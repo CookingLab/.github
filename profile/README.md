@@ -7,7 +7,7 @@ Welcome to the **Cooking Lab** GitHub organization! This is the home for all pro
 Explore our repositories to find various projects and tools:
 
 - [Cooking Lab App](https://github.com/CookingLab/cooking-lab): The main application for generating recipes based on user preferences.
-- [Cooking Lab API](https://github.com/CookingLab/cooking-lab-api): Backend API for managing recipes and user data.
+- [Cooking Lab API](https://github.com/CookingLab/cooking-lab-api): Backend API for managing recipes.
 
 ## 🛠 Technologies Used
 ![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat&logo=typescript&logoColor=white)
