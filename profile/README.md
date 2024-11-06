@@ -45,14 +45,6 @@ To get started with our projects, follow the instructions in the respective repo
    ```sh
     npm run dev
     ```
-
-## 🧪 Testing
-
-We use Cypress and Jest for testing our applications. To run tests, run this command:
-   ```sh
-    npx cypress open
-   ```
-
 ---
 
 Happy cooking! 🍽️
