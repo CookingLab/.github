@@ -8,6 +8,7 @@ Explore our repositories to find various projects and tools:
 
 - [Cooking Lab App](https://github.com/CookingLab/cooking-lab): The main application for generating recipes based on user preferences.
 - [Cooking Lab API](https://github.com/CookingLab/cooking-lab-api): Backend API for managing recipes.
+- [Cooking Lab Cypress repo](https://github.com/CookingLab/cooking-lab-cypress): E2E Cypress testing repository.
 - [Cooking Lab Kanban board](https://github.com/orgs/CookingLab/projects/1): Cooking Lab's backlog.
 
 ## 🛠 Technologies Used
