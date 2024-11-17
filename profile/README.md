@@ -22,6 +22,8 @@ Explore our repositories to find various projects and tools:
 ![Redux](https://img.shields.io/badge/-Redux-764ABC?style=flat&logo=redux&logoColor=white)
 ![Cypress](https://img.shields.io/badge/-Cypress-04C38E.svg)
 ![Jest](https://img.shields.io/badge/-Jest-C21325.svg)
+![Java](https://img.shields.io/badge/-Java-007396?style=flat&logo=java&logoColor=white)
+![Spring](https://img.shields.io/badge/-Spring-6DB33F?style=flat&logo=spring&logoColor=white)
 
 ## 🚀 Getting Started
 
