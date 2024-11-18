@@ -6,7 +6,7 @@ Welcome to the **Cooking Lab** GitHub organization! This is the home for all pro
 
 Explore our repositories to find various projects and tools:
 
-- [Cooking Lab App](https://github.com/CookingLab/cooking-lab): The main application for generating recipes based on user preferences.
+- [Cooking Lab UI](https://github.com/CookingLab/cooking-lab): The main application for generating recipes based on user preferences.
 - [Cooking Lab Personal Recipes API](https://github.com/CookingLab/cooking-lab-personal-recipe-api) : Backend API to expose our personal recipes.
 - [Cooking Lab API](https://github.com/CookingLab/cooking-lab-api): Backend API to generate random recipes. Powered by Edamam API.
 - [Cooking Lab Cypress repo](https://github.com/CookingLab/cooking-lab-cypress): E2E Cypress testing repository.
@@ -33,29 +33,12 @@ Explore our repositories to find various projects and tools:
 
 ## 🚀 Getting Started
 
-To get started with our projects, follow the instructions in the respective repository's README file. Here is a quick start guide for the main application:
+To get started with our projects, follow the instructions in the respective repository's README file.
 
-1. Clone the repository:
-    ```sh
-    git clone https://github.com/CookingLab/cooking-lab.git
-    ```
-2. Install dependencies:
-    ```sh
-    npm install
-    ```
-3. Start the application:
-    ```sh
-    npm start
-    ```
-4. Access the application locally at [http://localhost:3000/](http://localhost:3000/)
-5. Clone the backend:
-   ```sh
-   git clone https://github.com/CookingLab/cooking-lab-api.git
-   ```
-6. Start the backend
-   ```sh
-    npm run dev
-    ```
+1. Install and start [Cooking Lab UI repo](https://github.com/CookingLab/cooking-lab):
+2. Install and start [Cooking Lab API](https://github.com/CookingLab/cooking-lab-api):
+3. Install and start [Cooking Lab Personal Recipes API](https://github.com/CookingLab/cooking-lab-personal-recipe-api):
+4. Install and start [Cooking Lab Cypress repo](https://github.com/CookingLab/cooking-lab-cypress)
 ---
 
 Happy cooking! 🍽️
