@@ -35,9 +35,9 @@ Explore our repositories to find various projects and tools:
 
 To get started with our projects locally, follow the instructions in the respective repository's README file.
 
-1. Install and start [Cooking Lab UI](https://github.com/CookingLab/cooking-lab):
-2. Install and start [Cooking Lab API](https://github.com/CookingLab/cooking-lab-api):
-3. Install and start [Cooking Lab Personal Recipes API](https://github.com/CookingLab/cooking-lab-personal-recipe-api):
+1. Install and start [Cooking Lab UI](https://github.com/CookingLab/cooking-lab)
+2. Install and start [Cooking Lab API](https://github.com/CookingLab/cooking-lab-api)
+3. Install and start [Cooking Lab Personal Recipes API](https://github.com/CookingLab/cooking-lab-personal-recipe-api)
 4. Install and start [Cooking Lab Cypress repo](https://github.com/CookingLab/cooking-lab-cypress)
 ---
 
