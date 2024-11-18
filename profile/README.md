@@ -20,13 +20,15 @@ Explore our repositories to find various projects and tools:
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat&logo=bootstrap&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white)
 ![Redux](https://img.shields.io/badge/-Redux-764ABC?style=flat&logo=redux&logoColor=white)
-![Cypress](https://img.shields.io/badge/-Cypress-04C38E.svg)
-![Jest](https://img.shields.io/badge/-Jest-C21325.svg)
 
 ### Backend
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white)
 ![Java](https://img.shields.io/badge/-Java-007396?style=flat&logo=java&logoColor=white)
 ![Spring](https://img.shields.io/badge/-Spring-6DB33F?style=flat&logo=spring&logoColor=white)
+
+### Testing
+![Cypress](https://img.shields.io/badge/-Cypress-04C38E.svg)
+![Jest](https://img.shields.io/badge/-Jest-C21325.svg)
 
 ## 🚀 Getting Started
 
