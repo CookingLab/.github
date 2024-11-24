@@ -30,6 +30,7 @@ Explore our repositories to find various projects and tools:
 ### Testing
 ![Cypress](https://img.shields.io/badge/-Cypress-04C38E.svg)
 ![Jest](https://img.shields.io/badge/-Jest-C21325.svg)
+![JUnit](https://img.shields.io/badge/JUnit-25A162?style=flat&logo=junit5&logoColor=white)
 
 ## 🚀 Getting Started
 
