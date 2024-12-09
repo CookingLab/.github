@@ -10,7 +10,7 @@ Explore our repositories to find various projects and tools:
 - [Cooking Lab Personal Recipes API](https://github.com/CookingLab/cooking-lab-personal-recipe-api) : Backend API to expose our personal recipes.
 - [Cooking Lab API](https://github.com/CookingLab/cooking-lab-api): Backend API to generate random recipes. Powered by Edamam API.
 - [Cooking Lab Cypress repo](https://github.com/CookingLab/cooking-lab-cypress): E2E Cypress testing repository.
-- [Cooking Lab Recipes API] (https://github.com/CookingLab/cooking-lab-recipes-api): Backend API that contains Cooking Lab's recipes.
+- [Cooking Lab Recipes API](https://github.com/CookingLab/cooking-lab-recipes-api): Backend API that contains Cooking Lab's recipes.
 
 ## 📋 Kanban Board
 - [Cooking Lab Kanban board](https://github.com/orgs/CookingLab/projects/1): Cooking Lab's backlog.
