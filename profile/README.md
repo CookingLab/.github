@@ -41,6 +41,7 @@ To get started with our projects locally, follow the instructions in the respect
 2. Install and start [Cooking Lab API](https://github.com/CookingLab/cooking-lab-api)
 3. Install and start [Cooking Lab Personal Recipes API](https://github.com/CookingLab/cooking-lab-personal-recipe-api)
 4. Install and start [Cooking Lab Cypress repo](https://github.com/CookingLab/cooking-lab-cypress)
+5. Install and start [Cooking Lab Recipes API](https://github.com/CookingLab/cooking-lab-recipes-api)
 ---
 
 Happy cooking! 🍽️
