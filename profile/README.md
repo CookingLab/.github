@@ -15,8 +15,8 @@ Explore our repositories to find various projects and tools:
 Some repositories are private and are only available to Cooking Lab devs.
 
 ## 📋 Project Board
-- [Cooking Lab Kanban board](https://github.com/orgs/CookingLab/projects/1): Cooking Lab's backlog.
 - [Jira Project](https://cookinglab.atlassian.net/jira/your-work): Cooking Lab's Jira project
+- [Cooking Lab Kanban board](https://github.com/orgs/CookingLab/projects/1): Cooking Lab's backlog.
 
 ## 🛠 Technologies Used
 ### Frontend
