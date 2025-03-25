@@ -1,7 +1,7 @@
 # 🍳 Cooking Lab
 
-Welcome to the **Cooking Lab** GitHub organization! This is the home for all projects related to Cooking Lab, where we experiment with new flavors and create exciting recipes.
-
+Welcome to the **Cooking Lab** GitHub organization! This is the home for all projects related to Cooking Lab, where we experiment with new flavors and create exciting recipes.    
+[Access the app here!](https://cooking-lab.netlify.app/)
 # 👨‍💻👩‍💻 Collaborators
 [The Minh Luong](https://github.com/ThiiLuu79)    
 [Tien Chung](https://github.com/tien-chung)
