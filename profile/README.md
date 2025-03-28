@@ -40,6 +40,11 @@ Some repositories are private and are only available to Cooking Lab devs.
 ![Cypress](https://img.shields.io/badge/-Cypress-04C38E.svg)
 ![Jest](https://img.shields.io/badge/-Jest-C21325.svg)
 ![JUnit](https://img.shields.io/badge/JUnit-25A162?style=flat&logo=junit5&logoColor=white)
+![ESLint](https://img.shields.io/badge/ESLint-4B3263?style=flat&logo=eslint&logoColor=white)
+
+### DevOps
+![GitHub Actions](https://img.shields.io/badge/-GitHub%20Actions-2088FF?style=flat&logo=github-actions&logoColor=white)
+![SonarQube](https://img.shields.io/badge/SonarQube-black?style=flat&logo=sonarqube&logoColor=4E9BCD)
 
 ## 🚀 Getting Started
 
