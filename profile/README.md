@@ -14,9 +14,11 @@ Explore our repositories to find various projects and tools:
 - [Cooking Lab Recipes API](https://github.com/CookingLab/cooking-lab-recipes-api): Backend API that contains Cooking Lab's recipes and personal recipes.
 - [Cooking Lab API](https://github.com/CookingLab/cooking-lab-api): API Proxy to generate random recipes from Edamam API.
 - [Cooking Lab Cypress repo](https://github.com/CookingLab/cooking-lab-cypress): E2E Cypress testing repository.
-- [Cooking Lab Personal Recipes API](https://github.com/CookingLab/cooking-lab-personal-recipe-api) : Backend API to expose our personal recipes. (**ARCHIVED**)
 
 Some repositories are private and are only available to Cooking Lab devs.
+
+## 🗑️ Archived Repositories
+- [Cooking Lab Personal Recipes API](https://github.com/CookingLab/cooking-lab-personal-recipe-api) : Backend API to expose our personal recipes. (Moved in Cooking Lab Recipes API)
 
 ## 📋 Project Board
 - [Jira Project](https://cookinglab.atlassian.net/jira/your-work): Cooking Lab's Jira project
